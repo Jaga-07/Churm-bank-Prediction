@@ -8,7 +8,7 @@ model_files = {
     'Logistic Regression': 'logistic_regression_model.pkl',
     'Naive Bayes': 'naive_bayes_model.pkl',
     'Random Forest': 'random_forest_model.pkl',
-    'K-Nearest Neighbors': '/content/k-nearest_neighbors_model.pkl',
+    'K-Nearest Neighbors': 'k-nearest_neighbors_model.pkl',
     'Support Vector Machine': 'support_vector_machine_model.pkl'
 }
 
